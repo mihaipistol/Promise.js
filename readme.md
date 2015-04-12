@@ -1,5 +1,5 @@
-PromiseJS
-=========
+Promise
+=======
 
 This is a promise implementation, to use as a fallback, for when there is no default implementation.
 
