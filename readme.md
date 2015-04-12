@@ -1,7 +1,7 @@
 Promise
 =======
 
-This is a promise implementation, to use as a fallback, for when there is no default implementation.
+JavaScript Promise Polyfill.
 
 It is compatible with AMD, and passes JSlint validation, with the present configuration.
 
