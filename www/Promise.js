@@ -1,7 +1,7 @@
 /*jslint browser: true, continue: true, newcap: true, plusplus: true, todo: true, white: true */
 
 /**
- * PromiseJS v0.2.2
+ * Promise v0.2.2
  * @author Mihai Pistol
  */
 (function () {
