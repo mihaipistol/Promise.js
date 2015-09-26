@@ -1,4 +1,4 @@
-Promise
+PromiseJS
 =======
 
 JavaScript Promise Polyfill.
